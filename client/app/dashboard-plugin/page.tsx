@@ -68,7 +68,7 @@ function DashboardPlugin() {
          */
         async getUploadParameters(file: any): Promise<any> {
           // Send a request to our Express.js signing endpoint.
-          const response = await fetch("http://localhost:3000/api/sign-s3", {
+          const response = await fetch("/api/sign-s3", {
             method: "POST",
             headers: {
               "content-type": "application/json",
