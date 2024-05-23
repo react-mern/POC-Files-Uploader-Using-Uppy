@@ -7,6 +7,8 @@ The project utilizes Uppy, a sleek and modular file uploader for web application
 - **Client:** This directory contains nextjs web app
 - **Companion Server:** This directory contains the server-side code, which helps to take away the complexity of authentication and the cost of downloading files from remote sources
 
+Live Link : [Click Here](https://uppy-file-uploader.vercel.app)
+
 ## Key features of Uppy
 
 - **Customizable UI:** You can customize the look and feel of Uppy to match your application's design.
