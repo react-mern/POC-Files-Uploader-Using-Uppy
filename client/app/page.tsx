@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="bg-gradient-to-r from-blue-500 to-purple-600 h-screen flex flex-col items-center justify-center gap-8 p-4">
       <h1 className="text-5xl font-extrabold text-white shadow-lg">
-        Let's Start to Upload Files With Uppy
+        Let&apos;s Start to Upload Files With Uppy
       </h1>
       <div className="flex flex-col md:flex-row gap-6">
         <div className="flex flex-col items-center bg-white rounded-lg shadow-xl p-6 transform hover:scale-105 transition-transform">
